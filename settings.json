@@ -8,7 +8,7 @@
   "server": {
     "ip": "ytlive9.aternos.me",
     "port": 19116,
-    "version": "26.3"
+    "version": "26.32.2"
   },
   "position": {
     "enabled": true,
